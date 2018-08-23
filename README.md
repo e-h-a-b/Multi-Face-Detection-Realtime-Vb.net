@@ -5,4 +5,4 @@ Referance
 
 https://www.codeproject.com/Articles/239849/Multiple-face-detection-and-recognition-in-real
 
-This program Converted From C# to Vb.net Using Telerik
+This program Converted From C# to Vb.net Using  (justdecompile  Telerik)
